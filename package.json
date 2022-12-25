@@ -1,0 +1,19 @@
+{
+  "name": "7.-tindog",
+  "version": "1.0.0",
+  "description": "TinDog site",
+  "main": "index.js",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+      },
+  "author": "Stepan Nimchuk",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
